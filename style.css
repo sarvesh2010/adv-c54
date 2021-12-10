@@ -1,0 +1,21 @@
+body{
+    background-color: cyan;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;   
+}
+
+.ibox{
+    width: 100px;
+    background-color: rgb(113, 214, 12);
+    margin-left: 20px;
+}
+
+.lblarea{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.lblperimeter{
+    font-weight: bolder;
+    font-size: 20px;
+}
